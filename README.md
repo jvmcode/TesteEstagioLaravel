@@ -15,7 +15,10 @@ DB_USERNAME=root <br>
 DB_PASSWORD= <br> 
 Crie o banco de dados produtos_db no MySQL.<br> 
 
-## 3. 🧱 Criar a Migration e o Model Bash php artisan make:model Produto -m No arquivo database/migrations/xxxx_xx_xx_create_produtos_table.php:
+## 3. 🧱 Criar a Migration e o Model
+Bash <br> 
+php artisan make:model Produto -m <br> 
+No arquivo database/migrations/xxxx_xx_xx_create_produtos_table.php:<br> 
 
 public function up() <br> 
 { Schema::create('produtos', function (Blueprint $table) { <br> 
