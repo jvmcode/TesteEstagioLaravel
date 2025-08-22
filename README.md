@@ -1,6 +1,6 @@
 # 🚀 Etapas para Criar o CRUD de Produtos
 
-## Observação: Foi utilizado o XAMPP para servidores de banco de dados MySQL e Apache com suporte as linguagens PHP.
+## Observação: Foi utilizado o XAMPP para servidores de banco de dados MySQL e Apache.
 
 ## 1. 🛠️ Preparação do Projeto Bash composer create-project laravel/laravel laravel-produtos cd laravel-produtos php artisan serve
 
